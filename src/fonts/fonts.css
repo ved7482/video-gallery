@@ -1,0 +1,21 @@
+/* radhe radhe */
+
+@font-face {
+    font-family: 'jose-regular';
+    src: url(./josefin-sans.regular.ttf);
+}
+
+@font-face {
+    font-family: 'jose-thin';
+    src: url(./josefin-sans.thin.ttf);
+}
+
+@font-face {
+    font-family: 'jose-semibold';
+    src: url(./josefin-sans.semibold.ttf);
+}
+
+@font-face {
+    font-family: 'jose-bold';
+    src: url(./josefin-sans.bold.ttf);
+}

@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4782/1771569944782-i",
+        "title": "Drawing the Parabolic Curve.",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates neque, nobis consequatur magnam reprehenderit doloremque architecto sequi ipsa voluptas quaerat?",
+        "views": 10,
+        "date": "20/10/2025",
+        "link": "https://www.youtube.com/watch?v=ysz5S6PUM-U"
+    },
+
+    { 
+        "id": 2,
+        "thumbnail": "https://img.youtube.com/vi/SgmNxE9lWcY/maxresdefault.jpg",
+        "title": "CSS Animation Tutorial in 20 Minutes.",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates neque, nobis consequatur magnam reprehenderit doloremque architecto sequi ipsa voluptas quaerat?",
+        "views": 152,
+        "date": "19/04/2026",
+        "link": "https://www.youtube.com/watch?v=SgmNxE9lWcY"
+    },
+
+    { 
+        "id": 3,
+        "thumbnail": "https://img.youtube.com/vi/lqFVbEvKwno/hqdefault.jpg",
+        "title": "Tracing the Curve - x^2y^2=a^2(y^2-x^2)",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates neque, nobis consequatur magnam reprehenderit doloremque architecto sequi ipsa voluptas quaerat?",
+        "views": 170,
+        "date": "05/02/2025",
+        "link": "https://www.youtube.com/watch?v=lqFVbEvKwno"
+    },
+
+    { 
+        "id": 4,
+        "thumbnail": "https://img.youtube.com/vi/jc-QXyK995I/maxresdefault.jpg",
+        "title": "Tracing the Curve - xy^2=a^2(x^2-a^2)",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates neque, nobis consequatur magnam reprehenderit doloremque architecto sequi ipsa voluptas quaerat?",
+        "views": 182,
+        "date": "05/02/2025",
+        "link": "https://www.youtube.com/watch?v=jc-QXyK995I"
+    },
+
+    { 
+        "id": 5,
+        "thumbnail": "https://img.youtube.com/vi/mIZmtX7lZf8/maxresdefault.jpg",
+        "title": "Tracing the Curve - xy^2=a^2(x^2-a^2)",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates neque, nobis consequatur magnam reprehenderit doloremque architecto sequi ipsa voluptas quaerat?",
+        "views": 130,
+        "date": "04/02/2025",
+        "link": "https://www.youtube.com/watch?v=mIZmtX7lZf8"
+    },
+
+    { 
+        "id": 6,
+        "thumbnail": "https://img.youtube.com/vi/qlfh_rv6khY/maxresdefault.jpg",
+        "title": "A simple procedural animation technique",
+        "desc": "Let's design some procedurally animated animals!                               This video is a tutorial/explanation for a simple procedural animation technique I recently learned about. Essentially, it's animation rigging using a 2D chain simulation. I provide an animated explanation of the technique, then showcase a few animals I animated with it.",
+        "views": 874311,
+        "date": "05/02/2025",
+        "link": "https://www.youtube.com/watch?v=qlfh_rv6khY"
+    },
+
+    { 
+        "id": 7,
+        "thumbnail": "https://img.youtube.com/vi/AF8d72mA41M/maxresdefault.jpg",
+        "title": "Why It Was Almost Impossible to Make the Blue LED",
+        "desc": "The blue LED was supposed to be impossible—until a young engineer proposed a moonshot idea. Head to https://brilliant.org/veritasium to start your free 30-day trial, and the first 200 people get 20% off an annual premium subscription.",
+        "views": 49021057,
+        "date": "02/02/2024",
+        "link": "https://www.youtube.com/watch?v=AF8d72mA41M"
+    },
+
+    { 
+        "id": 8,
+        "thumbnail": "https://img.youtube.com/vi/VEJWE6cpqw0/maxresdefault.jpg",
+        "title": "Animation vs. Geometry",
+        "desc": "Would you look at these desk mats: https://alanbecker.shop/collections/m...",
+        "views": 5899022,
+        "date": "29/06/2024",
+        "link": "https://www.youtube.com/watch?v=VEJWE6cpqw0"
+    }
+]

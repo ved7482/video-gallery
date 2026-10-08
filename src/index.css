@@ -1,0 +1,10 @@
+/* radhe radhe */
+
+@import "tailwindcss";
+
+.slide-active {
+    opacity: 1;
+}
+.slide-inactive {
+    opacity: 0.5;
+}
